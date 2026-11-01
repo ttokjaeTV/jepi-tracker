@@ -1,0 +1,696 @@
+[
+ {
+  "ex": "2020-07-01",
+  "record": "2020-07-02",
+  "pay": "2020-07-07",
+  "amount": 0.49408,
+  "source": "wisesheets(예비)",
+  "close": 50.74,
+  "fx": 1197.0
+ },
+ {
+  "ex": "2020-08-03",
+  "record": "2020-08-04",
+  "pay": "2020-08-06",
+  "amount": 0.28979,
+  "source": "wisesheets(예비)",
+  "close": 53.09,
+  "fx": 1185.5
+ },
+ {
+  "ex": "2020-09-01",
+  "record": "2020-09-02",
+  "pay": "2020-09-04",
+  "amount": 0.45342,
+  "source": "wisesheets(예비)",
+  "close": 53.479,
+  "fx": 1189.5
+ },
+ {
+  "ex": "2020-10-01",
+  "record": "2020-10-02",
+  "pay": "2020-10-06",
+  "amount": 0.43476,
+  "source": "wisesheets(예비)",
+  "close": 52.883,
+  "fx": 1161.5
+ },
+ {
+  "ex": "2020-11-02",
+  "record": "2020-11-03",
+  "pay": "2020-11-05",
+  "amount": 0.51501,
+  "source": "wisesheets(예비)",
+  "close": 52.31,
+  "fx": 1126.5
+ },
+ {
+  "ex": "2020-12-01",
+  "record": "2020-12-02",
+  "pay": "2020-12-04",
+  "amount": 0.49986,
+  "source": "wisesheets(예비)",
+  "close": 55.12,
+  "fx": 1086.0
+ },
+ {
+  "ex": "2020-12-30",
+  "record": "2020-12-31",
+  "pay": "2021-01-05",
+  "amount": 0.54282,
+  "source": "wisesheets(예비)",
+  "close": 55.35,
+  "fx": 1089.0
+ },
+ {
+  "ex": "2021-02-01",
+  "record": "2021-02-02",
+  "pay": "2021-02-04",
+  "amount": 0.26263,
+  "source": "wisesheets(예비)",
+  "close": 55.07,
+  "fx": 1118.5
+ },
+ {
+  "ex": "2021-03-01",
+  "record": "2021-03-02",
+  "pay": "2021-03-04",
+  "amount": 0.32115,
+  "source": "wisesheets(예비)",
+  "close": 55.548,
+  "fx": 1125.0
+ },
+ {
+  "ex": "2021-04-01",
+  "record": "2021-04-05",
+  "pay": "2021-04-07",
+  "amount": 0.34828,
+  "source": "wisesheets(예비)",
+  "close": 57.89,
+  "fx": 1118.5
+ },
+ {
+  "ex": "2021-05-03",
+  "record": "2021-05-04",
+  "pay": "2021-05-06",
+  "amount": 0.37372,
+  "source": "wisesheets(예비)",
+  "close": 59.29,
+  "fx": 1124.0
+ },
+ {
+  "ex": "2021-06-01",
+  "record": "2021-06-02",
+  "pay": "2021-06-04",
+  "amount": 0.31346,
+  "source": "wisesheets(예비)",
+  "close": 59.3,
+  "fx": 1116.5
+ },
+ {
+  "ex": "2021-07-01",
+  "record": "2021-07-02",
+  "pay": "2021-07-07",
+  "amount": 0.3954,
+  "source": "wisesheets(예비)",
+  "close": 60.45,
+  "fx": 1137.5
+ },
+ {
+  "ex": "2021-08-02",
+  "record": "2021-08-03",
+  "pay": "2021-08-05",
+  "amount": 0.25719,
+  "source": "wisesheets(예비)",
+  "close": 61.43,
+  "fx": 1143.5
+ },
+ {
+  "ex": "2021-09-01",
+  "record": "2021-09-02",
+  "pay": "2021-09-07",
+  "amount": 0.33885,
+  "source": "wisesheets(예비)",
+  "close": 62.24,
+  "fx": 1162.0
+ },
+ {
+  "ex": "2021-10-01",
+  "record": "2021-10-04",
+  "pay": "2021-10-06",
+  "amount": 0.34338,
+  "source": "stockanalysis(예비)",
+  "close": 59.74,
+  "fx": 1196.5
+ },
+ {
+  "ex": "2021-11-01",
+  "record": "2021-11-02",
+  "pay": "2021-11-04",
+  "amount": 0.36614,
+  "source": "stockanalysis(예비)",
+  "close": 61.45,
+  "fx": 1185.5
+ },
+ {
+  "ex": "2021-12-01",
+  "record": "2021-12-02",
+  "pay": "2021-12-06",
+  "amount": 0.38245,
+  "source": "stockanalysis(예비)",
+  "close": 59.67,
+  "fx": 1182.0
+ },
+ {
+  "ex": "2021-12-30",
+  "record": "2021-12-31",
+  "pay": "2022-01-04",
+  "amount": 0.45861,
+  "source": "stockanalysis(예비)",
+  "close": 63.07,
+  "fx": 1196.5
+ },
+ {
+  "ex": "2022-02-01",
+  "record": "2022-02-02",
+  "pay": "2022-02-04",
+  "amount": 0.38181,
+  "source": "stockanalysis(예비)",
+  "close": 60.79,
+  "fx": 1199.5
+ },
+ {
+  "ex": "2022-03-01",
+  "record": "2022-03-02",
+  "pay": "2022-03-04",
+  "amount": 0.46226,
+  "source": "stockanalysis(예비)",
+  "close": 58.79,
+  "fx": 1217.5
+ },
+ {
+  "ex": "2022-04-01",
+  "record": "2022-04-04",
+  "pay": "2022-04-06",
+  "amount": 0.58777,
+  "source": "stockanalysis(예비)",
+  "close": 61.01,
+  "fx": 1218.0
+ },
+ {
+  "ex": "2022-05-02",
+  "record": "2022-05-03",
+  "pay": "2022-05-05",
+  "amount": 0.46806,
+  "source": "stockanalysis(예비)",
+  "close": 57.88,
+  "fx": 1266.5
+ },
+ {
+  "ex": "2022-06-01",
+  "record": "2022-06-02",
+  "pay": "2022-06-06",
+  "amount": 0.51642,
+  "source": "stockanalysis(예비)",
+  "close": 57.28,
+  "fx": 1247.0
+ },
+ {
+  "ex": "2022-07-01",
+  "record": "2022-07-05",
+  "pay": "2022-07-07",
+  "amount": 0.62102,
+  "source": "stockanalysis(예비)",
+  "close": 55.5,
+  "fx": 1300.5
+ },
+ {
+  "ex": "2022-08-01",
+  "record": "2022-08-02",
+  "pay": "2022-08-04",
+  "amount": 0.49547,
+  "source": "stockanalysis(예비)",
+  "close": 56.73,
+  "fx": 1308.0
+ },
+ {
+  "ex": "2022-09-01",
+  "record": "2022-09-02",
+  "pay": "2022-09-07",
+  "amount": 0.55894,
+  "source": "stockanalysis(예비)",
+  "close": 55.07,
+  "fx": 1386.0
+ },
+ {
+  "ex": "2022-10-03",
+  "record": "2022-10-04",
+  "pay": "2022-10-06",
+  "amount": 0.48084,
+  "source": "stockanalysis(예비)",
+  "close": 51.95,
+  "fx": 1411.0
+ },
+ {
+  "ex": "2022-11-01",
+  "record": "2022-11-02",
+  "pay": "2022-11-04",
+  "amount": 0.60627,
+  "source": "stockanalysis(예비)",
+  "close": 53.91,
+  "fx": 1411.0
+ },
+ {
+  "ex": "2022-12-01",
+  "record": "2022-12-02",
+  "pay": "2022-12-06",
+  "amount": 0.61036,
+  "source": "stockanalysis(예비)",
+  "close": 56.12,
+  "fx": 1321.0
+ },
+ {
+  "ex": "2022-12-29",
+  "record": "2022-12-30",
+  "pay": "2023-01-04",
+  "amount": 0.57292,
+  "source": "stockanalysis(예비)",
+  "close": 54.73,
+  "fx": 1273.0
+ },
+ {
+  "ex": "2023-02-01",
+  "record": "2023-02-02",
+  "pay": "2023-02-06",
+  "amount": 0.44392,
+  "source": "stockanalysis(예비)",
+  "close": 55.04,
+  "fx": 1262.0
+ },
+ {
+  "ex": "2023-03-01",
+  "record": "2023-03-02",
+  "pay": "2023-03-06",
+  "amount": 0.41115,
+  "source": "stockanalysis(예비)",
+  "close": 53.16,
+  "fx": 1301.5
+ },
+ {
+  "ex": "2023-04-03",
+  "record": "2023-04-04",
+  "pay": "2023-04-06",
+  "amount": 0.44506,
+  "source": "stockanalysis(예비)",
+  "close": 54.26,
+  "fx": 1319.5
+ },
+ {
+  "ex": "2023-05-01",
+  "record": "2023-05-02",
+  "pay": "2023-05-04",
+  "amount": 0.42458,
+  "source": "stockanalysis(예비)",
+  "close": 55.07,
+  "fx": 1327.0
+ },
+ {
+  "ex": "2023-06-01",
+  "record": "2023-06-02",
+  "pay": "2023-06-06",
+  "amount": 0.36541,
+  "source": "stockanalysis(예비)",
+  "close": 53.92,
+  "fx": 1307.0
+ },
+ {
+  "ex": "2023-07-03",
+  "record": "2023-07-05",
+  "pay": "2023-07-07",
+  "amount": 0.3593,
+  "source": "stockanalysis(예비)",
+  "close": 55.0,
+  "fx": 1303.0
+ },
+ {
+  "ex": "2023-08-01",
+  "record": "2023-08-02",
+  "pay": "2023-08-04",
+  "amount": 0.29037,
+  "source": "stockanalysis(예비)",
+  "close": 55.57,
+  "fx": 1308.0
+ },
+ {
+  "ex": "2023-09-01",
+  "record": "2023-09-05",
+  "pay": "2023-09-07",
+  "amount": 0.33817,
+  "source": "stockanalysis(예비)",
+  "close": 55.36,
+  "fx": 1337.0
+ },
+ {
+  "ex": "2023-10-02",
+  "record": "2023-10-03",
+  "pay": "2023-10-05",
+  "amount": 0.36333,
+  "source": "stockanalysis(예비)",
+  "close": 52.96,
+  "fx": 1349.0
+ },
+ {
+  "ex": "2023-11-01",
+  "record": "2023-11-02",
+  "pay": "2023-11-06",
+  "amount": 0.35892,
+  "source": "stockanalysis(예비)",
+  "close": 52.73,
+  "fx": 1300.0
+ },
+ {
+  "ex": "2023-12-01",
+  "record": "2023-12-04",
+  "pay": "2023-12-06",
+  "amount": 0.39025,
+  "source": "stockanalysis(예비)",
+  "close": 54.55,
+  "fx": 1317.5
+ },
+ {
+  "ex": "2023-12-28",
+  "record": "2023-12-29",
+  "pay": "2024-01-03",
+  "amount": 0.42781,
+  "source": "stockanalysis(예비)",
+  "close": 54.98,
+  "fx": 1311.0
+ },
+ {
+  "ex": "2024-02-01",
+  "record": "2024-02-02",
+  "pay": "2024-02-06",
+  "amount": 0.30061,
+  "source": "stockanalysis(예비)",
+  "close": 56.25,
+  "fx": 1328.5
+ },
+ {
+  "ex": "2024-03-01",
+  "record": "2024-03-04",
+  "pay": "2024-03-06",
+  "amount": 0.30085,
+  "source": "stockanalysis(예비)",
+  "close": 56.82,
+  "fx": 1332.0
+ },
+ {
+  "ex": "2024-04-01",
+  "record": "2024-04-02",
+  "pay": "2024-04-04",
+  "amount": 0.34519,
+  "source": "stockanalysis(예비)",
+  "close": 57.27,
+  "fx": 1352.0
+ },
+ {
+  "ex": "2024-05-01",
+  "record": "2024-05-02",
+  "pay": "2024-05-06",
+  "amount": 0.32609,
+  "source": "stockanalysis(예비)",
+  "close": 55.5,
+  "fx": 1359.0
+ },
+ {
+  "ex": "2024-06-03",
+  "record": "2024-06-03",
+  "pay": "2024-06-05",
+  "amount": 0.36027,
+  "source": "stockanalysis(예비)",
+  "close": 56.2,
+  "fx": 1370.0
+ },
+ {
+  "ex": "2024-07-01",
+  "record": "2024-07-01",
+  "pay": "2024-07-03",
+  "amount": 0.33012,
+  "source": "stockanalysis(예비)",
+  "close": 56.11,
+  "fx": 1387.0
+ },
+ {
+  "ex": "2024-08-01",
+  "record": "2024-08-01",
+  "pay": "2024-08-05",
+  "amount": 0.28949,
+  "source": "stockanalysis(예비)",
+  "close": 57.0,
+  "fx": 1370.0
+ },
+ {
+  "ex": "2024-09-03",
+  "record": "2024-09-03",
+  "pay": "2024-09-05",
+  "amount": 0.39984,
+  "source": "stockanalysis(예비)",
+  "close": 58.09,
+  "fx": 1335.0
+ },
+ {
+  "ex": "2024-10-01",
+  "record": "2024-10-01",
+  "pay": "2024-10-03",
+  "amount": 0.39217,
+  "source": "stockanalysis(예비)",
+  "close": 59.11,
+  "fx": 1336.0
+ },
+ {
+  "ex": "2024-11-01",
+  "record": "2024-11-01",
+  "pay": "2024-11-05",
+  "amount": 0.37522,
+  "source": "stockanalysis(예비)",
+  "close": 58.47,
+  "fx": 1379.8
+ },
+ {
+  "ex": "2024-12-02",
+  "record": "2024-12-02",
+  "pay": "2024-12-04",
+  "amount": 0.40177,
+  "source": "stockanalysis(예비)",
+  "close": 60.3,
+  "fx": 1413.5
+ },
+ {
+  "ex": "2024-12-31",
+  "record": "2024-12-31",
+  "pay": "2025-01-03",
+  "amount": 0.39478,
+  "source": "stockanalysis(예비)",
+  "close": 57.53,
+  "fx": 1471.0
+ },
+ {
+  "ex": "2025-02-03",
+  "record": "2025-02-03",
+  "pay": "2025-02-05",
+  "amount": 0.32586,
+  "source": "stockanalysis(예비)",
+  "close": 58.56,
+  "fx": 1445.5
+ },
+ {
+  "ex": "2025-03-03",
+  "record": "2025-03-03",
+  "pay": "2025-03-05",
+  "amount": 0.32765,
+  "source": "stockanalysis(예비)",
+  "close": 58.69,
+  "fx": 1446.0
+ },
+ {
+  "ex": "2025-04-01",
+  "record": "2025-04-01",
+  "pay": "2025-04-03",
+  "amount": 0.40794,
+  "source": "stockanalysis(예비)",
+  "close": 56.77,
+  "fx": 1452.2
+ },
+ {
+  "ex": "2025-05-01",
+  "record": "2025-05-01",
+  "pay": "2025-05-05",
+  "amount": 0.48792,
+  "source": "stockanalysis(예비)",
+  "close": 55.1,
+  "fx": 1382.0
+ },
+ {
+  "ex": "2025-06-02",
+  "record": "2025-06-02",
+  "pay": "2025-06-04",
+  "amount": 0.54001,
+  "source": "wisesheets(예비, stockanalysis 3자리 표기 보정)",
+  "close": 55.63,
+  "fx": 1363.5
+ },
+ {
+  "ex": "2025-07-01",
+  "record": "2025-07-01",
+  "pay": "2025-07-03",
+  "amount": 0.39953,
+  "source": "stockanalysis(예비)",
+  "close": 56.78,
+  "fx": 1363.5
+ },
+ {
+  "ex": "2025-08-01",
+  "record": "2025-08-01",
+  "pay": "2025-08-05",
+  "amount": 0.35772,
+  "source": "stockanalysis(예비)",
+  "close": 55.61,
+  "fx": 1387.7
+ },
+ {
+  "ex": "2025-09-02",
+  "record": "2025-09-02",
+  "pay": "2025-09-04",
+  "amount": 0.36826,
+  "source": "stockanalysis(예비)",
+  "close": 56.65,
+  "fx": 1394.0
+ },
+ {
+  "ex": "2025-10-01",
+  "record": "2025-10-01",
+  "pay": "2025-10-03",
+  "amount": 0.36102,
+  "source": "stockanalysis(예비)",
+  "close": 56.85,
+  "fx": 1424.7
+ },
+ {
+  "ex": "2025-11-03",
+  "record": "2025-11-03",
+  "pay": "2025-11-05",
+  "amount": 0.34636,
+  "source": "stockanalysis(예비)",
+  "close": 56.39,
+  "fx": 1441.0
+ },
+ {
+  "ex": "2025-12-01",
+  "record": "2025-12-01",
+  "pay": "2025-12-03",
+  "amount": 0.3706,
+  "source": "stockanalysis(예비)",
+  "close": 57.21,
+  "fx": 1467.0
+ },
+ {
+  "ex": "2025-12-31",
+  "record": "2025-12-31",
+  "pay": "2026-01-05",
+  "amount": 0.42709,
+  "source": "stockanalysis(예비)",
+  "close": 57.24,
+  "fx": 1446.8
+ },
+ {
+  "ex": "2026-02-02",
+  "record": "2026-02-02",
+  "pay": "2026-02-04",
+  "amount": 0.34443,
+  "source": "stockanalysis(예비)",
+  "close": 58.42,
+  "fx": 1460.5
+ },
+ {
+  "ex": "2026-03-02",
+  "record": "2026-03-02",
+  "pay": "2026-03-04",
+  "amount": 0.35134,
+  "source": "stockanalysis(예비)",
+  "close": 59.38,
+  "fx": 1463.5
+ },
+ {
+  "ex": "2026-04-01",
+  "record": "2026-04-01",
+  "pay": "2026-04-06",
+  "amount": 0.4205,
+  "source": "stockanalysis(예비)",
+  "close": 56.41,
+  "fx": 1508.5
+ },
+ {
+  "ex": "2026-05-01",
+  "record": "2026-05-01",
+  "pay": "2026-05-05",
+  "amount": 0.44761,
+  "source": "stockanalysis(예비)",
+  "close": 56.82,
+  "fx": 1469.0
+ },
+ {
+  "ex": "2026-06-01",
+  "record": "2026-06-01",
+  "pay": "2026-06-03",
+  "amount": 0.38921,
+  "source": "stockanalysis(예비)",
+  "close": 55.32,
+  "fx": 1535.0
+ },
+ {
+  "ex": "2026-07-01",
+  "record": "2026-07-01",
+  "pay": "2026-07-06",
+  "amount": 0.38716,
+  "source": "stockanalysis(예비)",
+  "close": 56.12,
+  "fx": 1530.5
+ },
+ {
+  "ex": "2026-08-03",
+  "record": "2026-08-03",
+  "pay": "2026-08-05",
+  "amount": 0.36664,
+  "source": "stockanalysis(예비)",
+  "close": 57.35,
+  "fx": 1423.5
+ },
+ {
+  "ex": "2026-09-01",
+  "record": "2026-09-01",
+  "pay": "2026-09-03",
+  "amount": 0.37142,
+  "source": "stockanalysis(예비)",
+  "close": 57.0,
+  "fx": 1358.0
+ },
+ {
+  "ex": "2026-10-01",
+  "record": "2026-10-01",
+  "pay": "2026-10-05",
+  "amount": 0.34134,
+  "source": "stockanalysis(예비)",
+  "close": 55.93,
+  "fx": 1342.5
+ },
+ {
+  "ex": "2026-11-02",
+  "record": "2026-11-02",
+  "pay": "2026-11-04",
+  "amount": 0.34683,
+  "source": "JPMorgan 공식",
+  "close": null,
+  "fx": null,
+  "added": "2026-11-01"
+ }
+]
