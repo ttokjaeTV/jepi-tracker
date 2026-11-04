@@ -690,7 +690,7 @@
   "amount": 0.34683,
   "source": "JPMorgan 공식",
   "close": null,
-  "fx": null,
+  "fx": 1337.9,
   "added": "2026-11-01"
  }
 ]
