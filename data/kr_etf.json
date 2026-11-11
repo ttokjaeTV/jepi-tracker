@@ -165,11 +165,11 @@
    "cost": {
     "basis": "2026-10-30",
     "total_fee": 0.25,
-    "other": 0.07,
-    "ter": 0.32,
+    "other": 0.0716,
+    "ter": 0.3216,
     "trading": 0.1082,
     "sales": 0.0,
-    "real": 0.4282,
+    "real": 0.4298,
     "kofia_code": "K55301EB0231"
    }
   },
@@ -295,11 +295,11 @@
    "cost": {
     "basis": "2026-10-30",
     "total_fee": 0.25,
-    "other": 0.11,
-    "ter": 0.36,
+    "other": 0.1085,
+    "ter": 0.3585,
     "trading": 0.1938,
     "sales": 0.0,
-    "real": 0.5538,
+    "real": 0.5523,
     "kofia_code": "K55105EG1950"
    }
   },
@@ -370,11 +370,11 @@
    "cost": {
     "basis": "2026-10-30",
     "total_fee": 0.25,
-    "other": 0.26,
-    "ter": 0.51,
+    "other": 0.2597,
+    "ter": 0.5097,
     "trading": 0.1631,
     "sales": 0.0,
-    "real": 0.6731,
+    "real": 0.6728,
     "kofia_code": "K55223EP9769"
    }
   }
