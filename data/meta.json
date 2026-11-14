@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "splits": [],
  "names_ko": {
   "MA": "마스터카드",
@@ -140,29 +140,29 @@
  "jepi_fee": 0.0035,
  "official": {
   "sec_yield": {
-   "value": 0.0728,
-   "asOf": "2026-11-05"
+   "value": 0.0719,
+   "asOf": "2026-11-12"
   },
   "rolling_12m": {
    "value": 0.0801,
-   "asOf": "2026-11-06"
+   "asOf": "2026-11-13"
   },
   "dist_yield": {
-   "value": 0.0748,
-   "asOf": "2026-11-06"
+   "value": 0.0728,
+   "asOf": "2026-11-13"
   },
   "nav": {
-   "value": 56.3847,
-   "asOf": "2026-11-06"
+   "value": 57.961,
+   "asOf": "2026-11-13"
   },
   "aum": {
-   "value": 45206440780,
-   "asOf": "2026-11-06"
+   "value": 47049843890,
+   "asOf": "2026-11-13"
   },
   "expense": 0.0035,
   "source": "J.P. Morgan Asset Management JEPI 상품 데이터",
   "url": "https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-equity-premium-income-etf-etf-shares-46641q332",
-  "checked": "2026-11-07"
+  "checked": "2026-11-14"
  },
  "schedule": {
   "rows": [

@@ -1,33 +1,21 @@
 {
- "asOf": "2026-11-12",
+ "asOf": "2026-11-13",
  "basis": "official",
  "source": "J.P. Morgan Asset Management JEPI Daily Holdings (엑셀)",
  "official": {
-  "asOf": "2026-11-12",
+  "asOf": "2026-11-13",
   "source": "J.P. Morgan Asset Management JEPI Daily Holdings (엑셀)"
  },
  "summary": {
-  "stock": 85.3205,
-  "eln": 13.6852,
-  "cash": 0.9943,
+  "stock": 85.0783,
+  "eln": 13.6973,
+  "cash": 1.2245,
   "other": 0,
   "stockCount": 118,
   "elnCount": 15,
-  "totalMV": 47011480222.72
+  "totalMV": 46938627445.0
  },
  "items": [
-  {
-   "symbol": "AVGO",
-   "name": "BROADCOM INC COMMON",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Information Technology",
-   "industry": "Semiconductors & Semiconductor Equipment",
-   "shares": 2566099.0,
-   "mv": 934983831.64,
-   "officialWeight": 1.98,
-   "weight": 1.988842
-  },
   {
    "symbol": "MA",
    "name": "MASTERCARD INC COMMON",
@@ -36,9 +24,9 @@
    "sector": "Financials",
    "industry": "Financial Services",
    "shares": 1430684.0,
-   "mv": 933664378.4,
-   "officialWeight": 1.98,
-   "weight": 1.986035
+   "mv": 945953953.96,
+   "officialWeight": 2.01,
+   "weight": 2.0153
   },
   {
    "symbol": "AAPL",
@@ -48,9 +36,9 @@
    "sector": "Information Technology",
    "industry": "Computers & Peripherals",
    "shares": 2615199.0,
-   "mv": 928081821.12,
-   "officialWeight": 1.97,
-   "weight": 1.97416
+   "mv": 931716947.73,
+   "officialWeight": 1.98,
+   "weight": 1.984968
   },
   {
    "symbol": "MSFT",
@@ -60,9 +48,9 @@
    "sector": "Information Technology",
    "industry": "Software",
    "shares": 1724819.0,
-   "mv": 902080337.0,
-   "officialWeight": 1.91,
-   "weight": 1.918851
+   "mv": 903598177.72,
+   "officialWeight": 1.92,
+   "weight": 1.925063
   },
   {
    "symbol": "AMZN",
@@ -72,21 +60,21 @@
    "sector": "Consumer Discretionary",
    "industry": "Broadline Retail",
    "shares": 3361712.0,
-   "mv": 899056257.28,
-   "officialWeight": 1.91,
-   "weight": 1.912419
+   "mv": 896434121.92,
+   "officialWeight": 1.9,
+   "weight": 1.9098
   },
   {
-   "symbol": "MMM",
-   "name": "3M CO COMMON STOCK USD",
+   "symbol": "AVGO",
+   "name": "BROADCOM INC COMMON",
    "type": "stock",
    "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Industrials",
-   "industry": "Industrial Conglomerates",
-   "shares": 4734051.0,
-   "mv": 877977098.46,
-   "officialWeight": 1.86,
-   "weight": 1.86758
+   "sector": "Information Technology",
+   "industry": "Semiconductors & Semiconductor Equipment",
+   "shares": 2566099.0,
+   "mv": 890462013.99,
+   "officialWeight": 1.89,
+   "weight": 1.897077
   },
   {
    "symbol": "V",
@@ -96,9 +84,21 @@
    "sector": "Financials",
    "industry": "Financial Services",
    "shares": 2085413.0,
-   "mv": 876519938.03,
-   "officialWeight": 1.86,
-   "weight": 1.864481
+   "mv": 887885438.88,
+   "officialWeight": 1.89,
+   "weight": 1.891588
+  },
+  {
+   "symbol": "MMM",
+   "name": "3M CO COMMON STOCK USD",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Industrials",
+   "industry": "Industrial Conglomerates",
+   "shares": 4734051.0,
+   "mv": 869455806.66,
+   "officialWeight": 1.85,
+   "weight": 1.852325
   },
   {
    "symbol": "COST",
@@ -108,9 +108,9 @@
    "sector": "Consumer Staples",
    "industry": "Consumer Staples Distribution & Retail",
    "shares": 785180.0,
-   "mv": 857581447.8,
-   "officialWeight": 1.82,
-   "weight": 1.824196
+   "mv": 868573967.8,
+   "officialWeight": 1.85,
+   "weight": 1.850446
   },
   {
    "symbol": "NEE",
@@ -120,21 +120,9 @@
    "sector": "Utilities",
    "industry": "Electric Utilities",
    "shares": 10012105.0,
-   "mv": 853932435.45,
+   "mv": 852230377.6,
    "officialWeight": 1.81,
-   "weight": 1.816434
-  },
-  {
-   "symbol": "GOOGL",
-   "name": "ALPHABET INC-CL A -",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Communication Services",
-   "industry": "Interactive Media & Services",
-   "shares": 2776981.0,
-   "mv": 829484224.7,
-   "officialWeight": 1.76,
-   "weight": 1.764429
+   "weight": 1.815627
   },
   {
    "symbol": "JNJ",
@@ -144,9 +132,21 @@
    "sector": "Health Care",
    "industry": "Pharmaceuticals",
    "shares": 2916167.0,
-   "mv": 826791667.84,
-   "officialWeight": 1.75,
-   "weight": 1.758702
+   "mv": 833294720.25,
+   "officialWeight": 1.77,
+   "weight": 1.775286
+  },
+  {
+   "symbol": "GOOGL",
+   "name": "ALPHABET INC-CL A -",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Communication Services",
+   "industry": "Interactive Media & Services",
+   "shares": 2776981.0,
+   "mv": 821347670.37,
+   "officialWeight": 1.74,
+   "weight": 1.749833
   },
   {
    "symbol": "ABBV",
@@ -156,21 +156,9 @@
    "sector": "Health Care",
    "industry": "Biotechnology",
    "shares": 2769218.0,
-   "mv": 815396240.1,
-   "officialWeight": 1.73,
-   "weight": 1.734462
-  },
-  {
-   "symbol": "EOG",
-   "name": "EOG RESOURCES INC COMMON",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Energy",
-   "industry": "Oil, Gas & Consumable Fuels",
-   "shares": 5003733.0,
-   "mv": 778680929.46,
-   "officialWeight": 1.65,
-   "weight": 1.656363
+   "mv": 817002386.54,
+   "officialWeight": 1.74,
+   "weight": 1.740576
   },
   {
    "symbol": "META",
@@ -180,21 +168,21 @@
    "sector": "Communication Services",
    "industry": "Interactive Media & Services",
    "shares": 1243029.0,
-   "mv": 775165314.69,
-   "officialWeight": 1.65,
-   "weight": 1.648885
+   "mv": 797639279.01,
+   "officialWeight": 1.69,
+   "weight": 1.699324
   },
   {
-   "symbol": "TT",
-   "name": "TRANE TECHNOLOGIES PLC",
+   "symbol": "EOG",
+   "name": "EOG RESOURCES INC COMMON",
    "type": "stock",
    "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Industrials",
-   "industry": "Building Products",
-   "shares": 1813351.0,
-   "mv": 768951491.55,
-   "officialWeight": 1.63,
-   "weight": 1.635667
+   "sector": "Energy",
+   "industry": "Oil, Gas & Consumable Fuels",
+   "shares": 5003733.0,
+   "mv": 792191008.56,
+   "officialWeight": 1.68,
+   "weight": 1.687717
   },
   {
    "symbol": "PM",
@@ -204,9 +192,21 @@
    "sector": "Consumer Staples",
    "industry": "Tobacco",
    "shares": 3843742.0,
-   "mv": 755910301.72,
-   "officialWeight": 1.6,
-   "weight": 1.607927
+   "mv": 764750908.32,
+   "officialWeight": 1.62,
+   "weight": 1.629257
+  },
+  {
+   "symbol": "TT",
+   "name": "TRANE TECHNOLOGIES PLC",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Industrials",
+   "industry": "Building Products",
+   "shares": 1813351.0,
+   "mv": 757962584.49,
+   "officialWeight": 1.61,
+   "weight": 1.614795
   },
   {
    "symbol": "LOW",
@@ -216,9 +216,9 @@
    "sector": "Consumer Discretionary",
    "industry": "Specialty Retail",
    "shares": 3296395.0,
-   "mv": 749798006.7,
+   "mv": 750688033.35,
    "officialWeight": 1.59,
-   "weight": 1.594925
+   "weight": 1.599297
   },
   {
    "symbol": "LRCX",
@@ -228,9 +228,9 @@
    "sector": "Information Technology",
    "industry": "Semiconductors & Semiconductor Equipment",
    "shares": 3097797.0,
-   "mv": 724202982.66,
-   "officialWeight": 1.54,
-   "weight": 1.540481
+   "mv": 699854298.24,
+   "officialWeight": 1.49,
+   "weight": 1.490999
   },
   {
    "symbol": "NVDA",
@@ -240,9 +240,9 @@
    "sector": "Information Technology",
    "industry": "Semiconductors & Semiconductor Equipment",
    "shares": 4231529.0,
-   "mv": 703237804.51,
-   "officialWeight": 1.49,
-   "weight": 1.495885
+   "mv": 689104497.65,
+   "officialWeight": 1.46,
+   "weight": 1.468097
   },
   {
    "symbol": "MDLZ",
@@ -252,9 +252,9 @@
    "sector": "Consumer Staples",
    "industry": "Food Products",
    "shares": 9558286.0,
-   "mv": 636199516.16,
-   "officialWeight": 1.35,
-   "weight": 1.353285
+   "mv": 645566636.44,
+   "officialWeight": 1.37,
+   "weight": 1.375342
   },
   {
    "symbol": "HWM",
@@ -264,9 +264,9 @@
    "sector": "Industrials",
    "industry": "Aerospace & Defense",
    "shares": 2702943.0,
-   "mv": 603053612.73,
-   "officialWeight": 1.28,
-   "weight": 1.282779
+   "mv": 596863873.26,
+   "officialWeight": 1.27,
+   "weight": 1.271584
   },
   {
    "symbol": "ROST",
@@ -276,9 +276,9 @@
    "sector": "Consumer Discretionary",
    "industry": "Specialty Retail",
    "shares": 2498305.0,
-   "mv": 592697878.2,
-   "officialWeight": 1.26,
-   "weight": 1.260751
+   "mv": 578807302.4,
+   "officialWeight": 1.23,
+   "weight": 1.233115
   },
   {
    "symbol": "RTX",
@@ -288,9 +288,9 @@
    "sector": "Industrials",
    "industry": "Aerospace & Defense",
    "shares": 2878204.0,
-   "mv": 570920545.44,
+   "mv": 571553750.32,
    "officialWeight": 1.21,
-   "weight": 1.214428
+   "weight": 1.217662
   },
   {
    "symbol": "LLY",
@@ -300,9 +300,9 @@
    "sector": "Health Care",
    "industry": "Pharmaceuticals",
    "shares": 387338.0,
-   "mv": 552169685.9,
-   "officialWeight": 1.17,
-   "weight": 1.174542
+   "mv": 559122403.0,
+   "officialWeight": 1.19,
+   "weight": 1.191178
   },
   {
    "symbol": "ETN",
@@ -312,9 +312,9 @@
    "sector": "Industrials",
    "industry": "Electrical Equipment",
    "shares": 1527523.0,
-   "mv": 548441857.92,
-   "officialWeight": 1.16,
-   "weight": 1.166613
+   "mv": 539169793.31,
+   "officialWeight": 1.15,
+   "weight": 1.14867
   },
   {
    "symbol": "ECL",
@@ -324,9 +324,9 @@
    "sector": "Materials",
    "industry": "Chemicals",
    "shares": 1719665.0,
-   "mv": 523483222.65,
-   "officialWeight": 1.11,
-   "weight": 1.113522
+   "mv": 531840794.55,
+   "officialWeight": 1.13,
+   "weight": 1.133056
   },
   {
    "symbol": "REGN",
@@ -336,9 +336,9 @@
    "sector": "Health Care",
    "industry": "Biotechnology",
    "shares": 534079.0,
-   "mv": 508010604.01,
+   "mv": 510296462.13,
    "officialWeight": 1.08,
-   "weight": 1.08061
+   "weight": 1.087157
   },
   {
    "symbol": "PEP",
@@ -348,9 +348,9 @@
    "sector": "Consumer Staples",
    "industry": "Beverages",
    "shares": 3348015.0,
-   "mv": 476288613.9,
-   "officialWeight": 1.01,
-   "weight": 1.013133
+   "mv": 486935301.6,
+   "officialWeight": 1.03,
+   "weight": 1.037387
   },
   {
    "symbol": "PGR",
@@ -360,9 +360,33 @@
    "sector": "Financials",
    "industry": "Insurance",
    "shares": 2019463.0,
-   "mv": 475563341.87,
+   "mv": 476148986.14,
    "officialWeight": 1.01,
-   "weight": 1.01159
+   "weight": 1.014408
+  },
+  {
+   "symbol": "SO",
+   "name": "THE SOUTHERN COMPANY",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Utilities",
+   "industry": "Electric Utilities",
+   "shares": 5055425.0,
+   "mv": 469295102.75,
+   "officialWeight": 1.0,
+   "weight": 0.999806
+  },
+  {
+   "symbol": "JIMXX",
+   "name": "JPMORGAN PRIME MONEY",
+   "type": "cash",
+   "secType": "MONEY MARKET",
+   "sector": "",
+   "industry": "",
+   "shares": 467446962.0,
+   "mv": 467400217.94,
+   "officialWeight": 0.99,
+   "weight": 0.995769
   },
   {
    "symbol": "C",
@@ -372,33 +396,9 @@
    "sector": "Financials",
    "industry": "Commercial Banks",
    "shares": 3733640.0,
-   "mv": 463195378.4,
+   "mv": 463008696.4,
    "officialWeight": 0.98,
-   "weight": 0.985281
-  },
-  {
-   "symbol": "AMD",
-   "name": "ADVANCED MICRO DEVICES",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Information Technology",
-   "industry": "Semiconductors & Semiconductor Equipment",
-   "shares": 791375.0,
-   "mv": 463191787.5,
-   "officialWeight": 0.98,
-   "weight": 0.985274
-  },
-  {
-   "symbol": "ETR",
-   "name": "ENTERGY CORP COMMON STOCK",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Utilities",
-   "industry": "Electric Utilities",
-   "shares": 4134433.0,
-   "mv": 460038359.91,
-   "officialWeight": 0.98,
-   "weight": 0.978566
+   "weight": 0.986413
   },
   {
    "symbol": "SPX_26",
@@ -408,9 +408,21 @@
    "sector": "",
    "industry": "",
    "shares": 60110.0,
-   "mv": 459152130.99,
-   "officialWeight": 0.97,
-   "weight": 0.976681
+   "mv": 460784876.14,
+   "officialWeight": 0.98,
+   "weight": 0.981675
+  },
+  {
+   "symbol": "ETR",
+   "name": "ENTERGY CORP COMMON STOCK",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Utilities",
+   "industry": "Electric Utilities",
+   "shares": 4134433.0,
+   "mv": 459542227.95,
+   "officialWeight": 0.98,
+   "weight": 0.979028
   },
   {
    "symbol": "SPX_27",
@@ -420,9 +432,9 @@
    "sector": "",
    "industry": "",
    "shares": 60323.0,
-   "mv": 457996345.2,
-   "officialWeight": 0.97,
-   "weight": 0.974222
+   "mv": 459364083.57,
+   "officialWeight": 0.98,
+   "weight": 0.978648
   },
   {
    "symbol": "SPX_25",
@@ -432,21 +444,9 @@
    "sector": "",
    "industry": "",
    "shares": 60897.0,
-   "mv": 455212969.02,
+   "mv": 458618001.27,
    "officialWeight": 0.97,
-   "weight": 0.968302
-  },
-  {
-   "symbol": "JIMXX",
-   "name": "JPMORGAN PRIME MONEY",
-   "type": "cash",
-   "secType": "MONEY MARKET",
-   "sector": "",
-   "industry": "",
-   "shares": 453859799.0,
-   "mv": 453859799.21,
-   "officialWeight": 0.96,
-   "weight": 0.965423
+   "weight": 0.977059
   },
   {
    "symbol": "SPX_22",
@@ -456,21 +456,9 @@
    "sector": "",
    "industry": "",
    "shares": 58661.0,
-   "mv": 450362001.01,
+   "mv": 451384470.45,
    "officialWeight": 0.96,
-   "weight": 0.957983
-  },
-  {
-   "symbol": "EQIX",
-   "name": "EQUINIX INC REIT USD",
-   "type": "stock",
-   "secType": "REIT",
-   "sector": "Real Estate",
-   "industry": "Specialized REITs",
-   "shares": 419505.0,
-   "mv": 450032378.85,
-   "officialWeight": 0.96,
-   "weight": 0.957282
+   "weight": 0.961648
   },
   {
    "symbol": "SPX_23",
@@ -480,45 +468,21 @@
    "sector": "",
    "industry": "",
    "shares": 57748.0,
-   "mv": 449328034.48,
+   "mv": 448625494.54,
    "officialWeight": 0.95,
-   "weight": 0.955784
+   "weight": 0.95577
   },
   {
-   "symbol": "VRT",
-   "name": "VERTIV HOLDINGS CO",
+   "symbol": "EQIX",
+   "name": "EQUINIX INC REIT USD",
    "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Industrials",
-   "industry": "Electrical Equipment",
-   "shares": 2119993.0,
-   "mv": 444435332.52,
+   "secType": "REIT",
+   "sector": "Real Estate",
+   "industry": "Specialized REITs",
+   "shares": 419505.0,
+   "mv": 442070173.95,
    "officialWeight": 0.94,
-   "weight": 0.945376
-  },
-  {
-   "symbol": "SO",
-   "name": "THE SOUTHERN COMPANY",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Utilities",
-   "industry": "Electric Utilities",
-   "shares": 4720082.0,
-   "mv": 436465982.54,
-   "officialWeight": 0.93,
-   "weight": 0.928424
-  },
-  {
-   "symbol": "COP",
-   "name": "CONOCOPHILLIPS COMMON",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Energy",
-   "industry": "Oil, Gas & Consumable Fuels",
-   "shares": 3070651.0,
-   "mv": 430075379.06,
-   "officialWeight": 0.91,
-   "weight": 0.914831
+   "weight": 0.941805
   },
   {
    "symbol": "SPX_24",
@@ -528,9 +492,33 @@
    "sector": "",
    "industry": "",
    "shares": 60378.0,
-   "mv": 429303513.15,
+   "mv": 434358745.13,
+   "officialWeight": 0.92,
+   "weight": 0.925376
+  },
+  {
+   "symbol": "COP",
+   "name": "CONOCOPHILLIPS COMMON",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Energy",
+   "industry": "Oil, Gas & Consumable Fuels",
+   "shares": 3070651.0,
+   "mv": 434036518.85,
+   "officialWeight": 0.92,
+   "weight": 0.924689
+  },
+  {
+   "symbol": "VRT",
+   "name": "VERTIV HOLDINGS CO",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Industrials",
+   "industry": "Electrical Equipment",
+   "shares": 2119993.0,
+   "mv": 428386985.51,
    "officialWeight": 0.91,
-   "weight": 0.913189
+   "weight": 0.912653
   },
   {
    "symbol": "SPX_18",
@@ -540,9 +528,21 @@
    "sector": "",
    "industry": "",
    "shares": 54936.0,
-   "mv": 426446178.22,
-   "officialWeight": 0.91,
-   "weight": 0.907111
+   "mv": 425012881.88,
+   "officialWeight": 0.9,
+   "weight": 0.905465
+  },
+  {
+   "symbol": "AMD",
+   "name": "ADVANCED MICRO DEVICES",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Information Technology",
+   "industry": "Semiconductors & Semiconductor Equipment",
+   "shares": 791375.0,
+   "mv": 422641732.5,
+   "officialWeight": 0.9,
+   "weight": 0.900413
   },
   {
    "symbol": "SPX_16",
@@ -552,9 +552,9 @@
    "sector": "",
    "industry": "",
    "shares": 54586.0,
-   "mv": 421365318.58,
+   "mv": 419455173.87,
    "officialWeight": 0.89,
-   "weight": 0.896303
+   "weight": 0.893625
   },
   {
    "symbol": "SPX_17",
@@ -564,9 +564,9 @@
    "sector": "",
    "industry": "",
    "shares": 54273.0,
-   "mv": 420754353.04,
+   "mv": 418718450.26,
    "officialWeight": 0.89,
-   "weight": 0.895003
+   "weight": 0.892055
   },
   {
    "symbol": "SPX_14",
@@ -576,9 +576,9 @@
    "sector": "",
    "industry": "",
    "shares": 54541.0,
-   "mv": 419457714.67,
+   "mv": 417343476.6,
    "officialWeight": 0.89,
-   "weight": 0.892245
+   "weight": 0.889126
   },
   {
    "symbol": "SPX_15",
@@ -588,21 +588,9 @@
    "sector": "",
    "industry": "",
    "shares": 54364.0,
-   "mv": 418381394.89,
-   "officialWeight": 0.89,
-   "weight": 0.889956
-  },
-  {
-   "symbol": "SPX_21",
-   "name": "SPX_21",
-   "type": "eln",
-   "secType": "Equity Linked Notes",
-   "sector": "",
-   "industry": "",
-   "shares": 52459.0,
-   "mv": 409044624.86,
-   "officialWeight": 0.87,
-   "weight": 0.870095
+   "mv": 416270295.78,
+   "officialWeight": 0.88,
+   "weight": 0.88684
   },
   {
    "symbol": "SRE",
@@ -612,9 +600,21 @@
    "sector": "Utilities",
    "industry": "Multi-Utilities",
    "shares": 5176255.0,
-   "mv": 408820619.9,
+   "mv": 411719322.7,
    "officialWeight": 0.87,
-   "weight": 0.869619
+   "weight": 0.877144
+  },
+  {
+   "symbol": "SPX_21",
+   "name": "SPX_21",
+   "type": "eln",
+   "secType": "Equity Linked Notes",
+   "sector": "",
+   "industry": "",
+   "shares": 52459.0,
+   "mv": 407781632.41,
+   "officialWeight": 0.87,
+   "weight": 0.868755
   },
   {
    "symbol": "SPX_20",
@@ -624,9 +624,9 @@
    "sector": "",
    "industry": "",
    "shares": 52298.0,
-   "mv": 408379980.48,
-   "officialWeight": 0.87,
-   "weight": 0.868681
+   "mv": 406763173.48,
+   "officialWeight": 0.86,
+   "weight": 0.866585
   },
   {
    "symbol": "SPX_19",
@@ -636,9 +636,9 @@
    "sector": "",
    "industry": "",
    "shares": 52444.0,
-   "mv": 407875593.35,
-   "officialWeight": 0.87,
-   "weight": 0.867608
+   "mv": 406357915.17,
+   "officialWeight": 0.86,
+   "weight": 0.865722
   },
   {
    "symbol": "CMG",
@@ -648,9 +648,9 @@
    "sector": "Consumer Discretionary",
    "industry": "Hotels, Restaurants & Leisure",
    "shares": 11500069.0,
-   "mv": 404457426.73,
+   "mv": 405722434.32,
    "officialWeight": 0.86,
-   "weight": 0.860338
+   "weight": 0.864368
   },
   {
    "symbol": "SPX_13",
@@ -660,33 +660,9 @@
    "sector": "",
    "industry": "",
    "shares": 52272.0,
-   "mv": 400538967.15,
+   "mv": 398473165.64,
    "officialWeight": 0.85,
-   "weight": 0.852002
-  },
-  {
-   "symbol": "MU",
-   "name": "MICRON TECHNOLOGY INC",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Information Technology",
-   "industry": "Semiconductors & Semiconductor Equipment",
-   "shares": 500437.0,
-   "mv": 399568918.28,
-   "officialWeight": 0.85,
-   "weight": 0.849939
-  },
-  {
-   "symbol": "EMR",
-   "name": "EMERSON ELECTRIC CO",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Industrials",
-   "industry": "Electrical Equipment",
-   "shares": 2372333.0,
-   "mv": 394578286.23,
-   "officialWeight": 0.84,
-   "weight": 0.839323
+   "weight": 0.848924
   },
   {
    "symbol": "WMT",
@@ -696,9 +672,21 @@
    "sector": "Consumer Staples",
    "industry": "Consumer Staples Distribution & Retail",
    "shares": 3099325.0,
-   "mv": 391103821.75,
-   "officialWeight": 0.83,
-   "weight": 0.831933
+   "mv": 396992539.25,
+   "officialWeight": 0.84,
+   "weight": 0.845769
+  },
+  {
+   "symbol": "EMR",
+   "name": "EMERSON ELECTRIC CO",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Industrials",
+   "industry": "Electrical Equipment",
+   "shares": 2372333.0,
+   "mv": 394708764.54,
+   "officialWeight": 0.84,
+   "weight": 0.840904
   },
   {
    "symbol": "CPAY",
@@ -708,33 +696,33 @@
    "sector": "Financials",
    "industry": "Financial Services",
    "shares": 845677.0,
-   "mv": 385637168.77,
-   "officialWeight": 0.82,
-   "weight": 0.820304
+   "mv": 390888822.94,
+   "officialWeight": 0.83,
+   "weight": 0.832766
   },
   {
-   "symbol": "PLTR",
-   "name": "PALANTIR TECHNOLOGIES INC",
+   "symbol": "MU",
+   "name": "MICRON TECHNOLOGY INC",
    "type": "stock",
    "secType": "DOMESTIC COMMON STOCK",
    "sector": "Information Technology",
-   "industry": "Software",
-   "shares": 2212319.0,
-   "mv": 379589694.02,
-   "officialWeight": 0.81,
-   "weight": 0.80744
+   "industry": "Semiconductors & Semiconductor Equipment",
+   "shares": 500437.0,
+   "mv": 389495121.47,
+   "officialWeight": 0.83,
+   "weight": 0.829797
   },
   {
-   "symbol": "DIS",
-   "name": "THE WALT DISNEY COMPANY",
+   "symbol": "NFLX",
+   "name": "NETFLIX INC COMMON STOCK",
    "type": "stock",
    "secType": "DOMESTIC COMMON STOCK",
    "sector": "Communication Services",
    "industry": "Entertainment",
-   "shares": 3198643.0,
-   "mv": 378175561.89,
-   "officialWeight": 0.8,
-   "weight": 0.804432
+   "shares": 6207035.0,
+   "mv": 385767225.25,
+   "officialWeight": 0.82,
+   "weight": 0.821855
   },
   {
    "symbol": "AON",
@@ -744,9 +732,21 @@
    "sector": "Financials",
    "industry": "Insurance",
    "shares": 1092345.0,
-   "mv": 364209669.9,
-   "officialWeight": 0.77,
-   "weight": 0.774725
+   "mv": 369551236.95,
+   "officialWeight": 0.79,
+   "weight": 0.787307
+  },
+  {
+   "symbol": "KO",
+   "name": "THE COCA-COLA COMPANY",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Consumer Staples",
+   "industry": "Beverages",
+   "shares": 3715846.0,
+   "mv": 368797715.5,
+   "officialWeight": 0.78,
+   "weight": 0.785702
   },
   {
    "symbol": "AJG",
@@ -756,9 +756,9 @@
    "sector": "Financials",
    "industry": "Insurance",
    "shares": 1302967.0,
-   "mv": 361286689.76,
-   "officialWeight": 0.77,
-   "weight": 0.768507
+   "mv": 368661482.98,
+   "officialWeight": 0.78,
+   "weight": 0.785412
   },
   {
    "symbol": "VRTX",
@@ -768,21 +768,33 @@
    "sector": "Health Care",
    "industry": "Biotechnology",
    "shares": 664560.0,
-   "mv": 360603547.2,
-   "officialWeight": 0.77,
-   "weight": 0.767054
+   "mv": 357932016.0,
+   "officialWeight": 0.76,
+   "weight": 0.762553
   },
   {
-   "symbol": "NFLX",
-   "name": "NETFLIX INC COMMON STOCK",
+   "symbol": "PLTR",
+   "name": "PALANTIR TECHNOLOGIES INC",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Information Technology",
+   "industry": "Software",
+   "shares": 2095419.0,
+   "mv": 352009437.81,
+   "officialWeight": 0.75,
+   "weight": 0.749936
+  },
+  {
+   "symbol": "DIS",
+   "name": "THE WALT DISNEY COMPANY",
    "type": "stock",
    "secType": "DOMESTIC COMMON STOCK",
    "sector": "Communication Services",
    "industry": "Entertainment",
-   "shares": 5697991.0,
-   "mv": 357207055.79,
-   "officialWeight": 0.76,
-   "weight": 0.759829
+   "shares": 2859344.0,
+   "mv": 340176155.68,
+   "officialWeight": 0.72,
+   "weight": 0.724725
   },
   {
    "symbol": "UNH",
@@ -792,33 +804,9 @@
    "sector": "Health Care",
    "industry": "Health Care Providers & Services",
    "shares": 812016.0,
-   "mv": 328972042.08,
+   "mv": 330864039.36,
    "officialWeight": 0.7,
-   "weight": 0.69977
-  },
-  {
-   "symbol": "KO",
-   "name": "THE COCA-COLA COMPANY",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Consumer Staples",
-   "industry": "Beverages",
-   "shares": 3343795.0,
-   "mv": 325819384.8,
-   "officialWeight": 0.69,
-   "weight": 0.693063
-  },
-  {
-   "symbol": "SYK",
-   "name": "STRYKER CORP COMMON STOCK",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Health Care",
-   "industry": "Health Care Equipment & Supplies",
-   "shares": 970287.0,
-   "mv": 303107955.93,
-   "officialWeight": 0.64,
-   "weight": 0.644753
+   "weight": 0.704886
   },
   {
    "symbol": "DOV",
@@ -828,45 +816,9 @@
    "sector": "Industrials",
    "industry": "Machinery",
    "shares": 1434674.0,
-   "mv": 300521162.78,
+   "mv": 301209806.3,
    "officialWeight": 0.64,
-   "weight": 0.639251
-  },
-  {
-   "symbol": "BMY",
-   "name": "BRISTOL-MYERS SQUIBB CO",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Health Care",
-   "industry": "Pharmaceuticals",
-   "shares": 4739819.0,
-   "mv": 295385520.08,
-   "officialWeight": 0.63,
-   "weight": 0.628326
-  },
-  {
-   "symbol": "TXN",
-   "name": "TEXAS INSTRUMENTS INC",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Information Technology",
-   "industry": "Semiconductors & Semiconductor Equipment",
-   "shares": 925904.0,
-   "mv": 289326481.92,
-   "officialWeight": 0.61,
-   "weight": 0.615438
-  },
-  {
-   "symbol": "TMUS",
-   "name": "T-MOBILE US INC COMMON",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Communication Services",
-   "industry": "Wireless Telecommunication Services",
-   "shares": 1645185.0,
-   "mv": 281375990.55,
-   "officialWeight": 0.6,
-   "weight": 0.598526
+   "weight": 0.64171
   },
   {
    "symbol": "CB",
@@ -876,21 +828,45 @@
    "sector": "Financials",
    "industry": "Insurance",
    "shares": 755959.0,
-   "mv": 281035317.84,
+   "mv": 284044034.66,
    "officialWeight": 0.6,
-   "weight": 0.597801
+   "weight": 0.605139
   },
   {
-   "symbol": "ACN",
-   "name": "ACCENTURE PLC COMMON",
+   "symbol": "TXN",
+   "name": "TEXAS INSTRUMENTS INC",
    "type": "stock",
    "secType": "DOMESTIC COMMON STOCK",
    "sector": "Information Technology",
-   "industry": "IT Services",
-   "shares": 1113177.0,
-   "mv": 278238591.15,
+   "industry": "Semiconductors & Semiconductor Equipment",
+   "shares": 925904.0,
+   "mv": 281104454.4,
+   "officialWeight": 0.6,
+   "weight": 0.598877
+  },
+  {
+   "symbol": "TMUS",
+   "name": "T-MOBILE US INC COMMON",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Communication Services",
+   "industry": "Wireless Telecommunication Services",
+   "shares": 1645185.0,
+   "mv": 279599190.75,
    "officialWeight": 0.59,
-   "weight": 0.591852
+   "weight": 0.59567
+  },
+  {
+   "symbol": "SYK",
+   "name": "STRYKER CORP COMMON STOCK",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Health Care",
+   "industry": "Health Care Equipment & Supplies",
+   "shares": 880397.0,
+   "mv": 272606127.08,
+   "officialWeight": 0.58,
+   "weight": 0.580771
   },
   {
    "symbol": "CMI",
@@ -900,9 +876,21 @@
    "sector": "Industrials",
    "industry": "Machinery",
    "shares": 598107.0,
-   "mv": 272377927.8,
-   "officialWeight": 0.58,
-   "weight": 0.579386
+   "mv": 270452023.26,
+   "officialWeight": 0.57,
+   "weight": 0.576182
+  },
+  {
+   "symbol": "BMY",
+   "name": "BRISTOL-MYERS SQUIBB CO",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Health Care",
+   "industry": "Pharmaceuticals",
+   "shares": 4260467.0,
+   "mv": 270241421.81,
+   "officialWeight": 0.57,
+   "weight": 0.575734
   },
   {
    "symbol": "VTR",
@@ -912,9 +900,9 @@
    "sector": "Real Estate",
    "industry": "Health Care REITs",
    "shares": 2928050.0,
-   "mv": 262499682.5,
-   "officialWeight": 0.56,
-   "weight": 0.558374
+   "mv": 260362206.0,
+   "officialWeight": 0.55,
+   "weight": 0.554686
   },
   {
    "symbol": "T",
@@ -926,19 +914,19 @@
    "shares": 11719689.0,
    "mv": 259942702.02,
    "officialWeight": 0.55,
-   "weight": 0.552935
+   "weight": 0.553793
   },
   {
-   "symbol": "ISRG",
-   "name": "INTUITIVE SURGICAL INC",
+   "symbol": "ACN",
+   "name": "ACCENTURE PLC COMMON",
    "type": "stock",
    "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Health Care",
-   "industry": "Health Care Equipment & Supplies",
-   "shares": 573812.0,
-   "mv": 252414160.68,
-   "officialWeight": 0.54,
-   "weight": 0.53692
+   "sector": "Information Technology",
+   "industry": "IT Services",
+   "shares": 1032930.0,
+   "mv": 258738635.7,
+   "officialWeight": 0.55,
+   "weight": 0.551228
   },
   {
    "symbol": "YUM",
@@ -948,9 +936,9 @@
    "sector": "Consumer Discretionary",
    "industry": "Hotels, Restaurants & Leisure",
    "shares": 1579754.0,
-   "mv": 251718002.36,
-   "officialWeight": 0.53,
-   "weight": 0.535439
+   "mv": 254861712.82,
+   "officialWeight": 0.54,
+   "weight": 0.542968
   },
   {
    "symbol": "SPGI",
@@ -960,9 +948,21 @@
    "sector": "Financials",
    "industry": "Capital Markets",
    "shares": 535379.0,
-   "mv": 250830415.29,
-   "officialWeight": 0.53,
-   "weight": 0.533551
+   "mv": 253550140.61,
+   "officialWeight": 0.54,
+   "weight": 0.540174
+  },
+  {
+   "symbol": "ISRG",
+   "name": "INTUITIVE SURGICAL INC",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Health Care",
+   "industry": "Health Care Equipment & Supplies",
+   "shares": 536881.0,
+   "mv": 238155042.79,
+   "officialWeight": 0.51,
+   "weight": 0.507375
   },
   {
    "symbol": "AZO",
@@ -972,9 +972,9 @@
    "sector": "Consumer Discretionary",
    "industry": "Specialty Retail",
    "shares": 72386.0,
-   "mv": 235413025.34,
+   "mv": 235956644.2,
    "officialWeight": 0.5,
-   "weight": 0.500756
+   "weight": 0.502692
   },
   {
    "symbol": "DE",
@@ -984,9 +984,9 @@
    "sector": "Industrials",
    "industry": "Machinery",
    "shares": 341201.0,
-   "mv": 231603826.79,
+   "mv": 229812521.54,
    "officialWeight": 0.49,
-   "weight": 0.492654
+   "weight": 0.489602
   },
   {
    "symbol": "DASH",
@@ -996,33 +996,9 @@
    "sector": "Consumer Discretionary",
    "industry": "Hotels, Restaurants & Leisure",
    "shares": 1310687.0,
-   "mv": 226198362.46,
+   "mv": 224795927.37,
    "officialWeight": 0.48,
-   "weight": 0.481156
-  },
-  {
-   "symbol": "STX",
-   "name": "SEAGATE TECHNOLOGY",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Information Technology",
-   "industry": "Computers & Peripherals",
-   "shares": 414017.0,
-   "mv": 225697227.38,
-   "officialWeight": 0.48,
-   "weight": 0.48009
-  },
-  {
-   "symbol": "PG",
-   "name": "THE PROCTER & GAMBLE",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Consumer Staples",
-   "industry": "Household Products",
-   "shares": 1317631.0,
-   "mv": 221401536.93,
-   "officialWeight": 0.47,
-   "weight": 0.470952
+   "weight": 0.478915
   },
   {
    "symbol": "MDT",
@@ -1032,9 +1008,21 @@
    "sector": "Health Care",
    "industry": "Health Care Equipment & Supplies",
    "shares": 2181898.0,
-   "mv": 220349879.02,
-   "officialWeight": 0.47,
-   "weight": 0.468715
+   "mv": 224430028.28,
+   "officialWeight": 0.48,
+   "weight": 0.478135
+  },
+  {
+   "symbol": "PG",
+   "name": "THE PROCTER & GAMBLE",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Consumer Staples",
+   "industry": "Household Products",
+   "shares": 1317631.0,
+   "mv": 223733743.8,
+   "officialWeight": 0.48,
+   "weight": 0.476652
   },
   {
    "symbol": "CHD",
@@ -1044,9 +1032,9 @@
    "sector": "Consumer Staples",
    "industry": "Household Products",
    "shares": 1940689.0,
-   "mv": 216236420.1,
-   "officialWeight": 0.46,
-   "weight": 0.459965
+   "mv": 219297857.0,
+   "officialWeight": 0.47,
+   "weight": 0.467201
   },
   {
    "symbol": "USB",
@@ -1056,21 +1044,9 @@
    "sector": "Financials",
    "industry": "Commercial Banks",
    "shares": 3545772.0,
-   "mv": 214412832.84,
+   "mv": 216256634.28,
    "officialWeight": 0.46,
-   "weight": 0.456086
-  },
-  {
-   "symbol": "TSLA",
-   "name": "TESLA INC COMMON STOCK",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Consumer Discretionary",
-   "industry": "Automobiles",
-   "shares": 536264.0,
-   "mv": 213138126.8,
-   "officialWeight": 0.45,
-   "weight": 0.453375
+   "weight": 0.460722
   },
   {
    "symbol": "FDX",
@@ -1080,9 +1056,33 @@
    "sector": "Industrials",
    "industry": "Air Freight & Logistics",
    "shares": 654752.0,
-   "mv": 209062313.6,
+   "mv": 212231313.28,
+   "officialWeight": 0.45,
+   "weight": 0.452146
+  },
+  {
+   "symbol": "TSLA",
+   "name": "TESLA INC COMMON STOCK",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Consumer Discretionary",
+   "industry": "Automobiles",
+   "shares": 536264.0,
+   "mv": 209260938.08,
    "officialWeight": 0.44,
-   "weight": 0.444705
+   "weight": 0.445818
+  },
+  {
+   "symbol": "STX",
+   "name": "SEAGATE TECHNOLOGY",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Information Technology",
+   "industry": "Computers & Peripherals",
+   "shares": 391941.0,
+   "mv": 207058510.89,
+   "officialWeight": 0.44,
+   "weight": 0.441126
   },
   {
    "symbol": "XOM",
@@ -1092,9 +1092,9 @@
    "sector": "Energy",
    "industry": "Oil, Gas & Consumable Fuels",
    "shares": 1219964.0,
-   "mv": 207125487.92,
+   "mv": 206808297.28,
    "officialWeight": 0.44,
-   "weight": 0.440585
+   "weight": 0.440593
   },
   {
    "symbol": "MCD",
@@ -1104,9 +1104,9 @@
    "sector": "Consumer Discretionary",
    "industry": "Hotels, Restaurants & Leisure",
    "shares": 756006.0,
-   "mv": 206865921.78,
+   "mv": 205610951.82,
    "officialWeight": 0.44,
-   "weight": 0.440033
+   "weight": 0.438042
   },
   {
    "symbol": "APH",
@@ -1116,9 +1116,9 @@
    "sector": "Information Technology",
    "industry": "Electronic Equipment, Instruments & Components",
    "shares": 2479622.0,
-   "mv": 197427503.64,
-   "officialWeight": 0.42,
-   "weight": 0.419956
+   "mv": 193980829.06,
+   "officialWeight": 0.41,
+   "weight": 0.413265
   },
   {
    "symbol": "EW",
@@ -1127,10 +1127,10 @@
    "secType": "DOMESTIC COMMON STOCK",
    "sector": "Health Care",
    "industry": "Health Care Equipment & Supplies",
-   "shares": 1747831.0,
-   "mv": 184920519.8,
-   "officialWeight": 0.39,
-   "weight": 0.393352
+   "shares": 1767053.0,
+   "mv": 189339728.95,
+   "officialWeight": 0.4,
+   "weight": 0.403377
   },
   {
    "symbol": "VZ",
@@ -1140,9 +1140,9 @@
    "sector": "Communication Services",
    "industry": "Diversified Telecommunication Services",
    "shares": 3797548.0,
-   "mv": 176775859.4,
-   "officialWeight": 0.38,
-   "weight": 0.376027
+   "mv": 176054325.28,
+   "officialWeight": 0.37,
+   "weight": 0.375073
   },
   {
    "symbol": "MRK",
@@ -1152,9 +1152,9 @@
    "sector": "Health Care",
    "industry": "Pharmaceuticals",
    "shares": 1169935.0,
-   "mv": 171921948.25,
-   "officialWeight": 0.36,
-   "weight": 0.365702
+   "mv": 172869595.6,
+   "officialWeight": 0.37,
+   "weight": 0.368289
   },
   {
    "symbol": "GD",
@@ -1164,9 +1164,9 @@
    "sector": "Industrials",
    "industry": "Aerospace & Defense",
    "shares": 456602.0,
-   "mv": 165778488.14,
+   "mv": 165956562.92,
    "officialWeight": 0.35,
-   "weight": 0.352634
+   "weight": 0.353561
   },
   {
    "symbol": "BURL",
@@ -1176,21 +1176,9 @@
    "sector": "Consumer Discretionary",
    "industry": "Specialty Retail",
    "shares": 643817.0,
-   "mv": 162158187.79,
-   "officialWeight": 0.34,
-   "weight": 0.344933
-  },
-  {
-   "symbol": "AMAT",
-   "name": "APPLIED MATERIALS INC",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Information Technology",
-   "industry": "Semiconductors & Semiconductor Equipment",
-   "shares": 404924.0,
-   "mv": 154255797.8,
+   "mv": 156357396.62,
    "officialWeight": 0.33,
-   "weight": 0.328124
+   "weight": 0.33311
   },
   {
    "symbol": "HUM",
@@ -1200,9 +1188,21 @@
    "sector": "Health Care",
    "industry": "Health Care Providers & Services",
    "shares": 347418.0,
-   "mv": 154142418.24,
+   "mv": 156338100.0,
    "officialWeight": 0.33,
-   "weight": 0.327883
+   "weight": 0.333069
+  },
+  {
+   "symbol": "AMAT",
+   "name": "APPLIED MATERIALS INC",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Information Technology",
+   "industry": "Semiconductors & Semiconductor Equipment",
+   "shares": 404924.0,
+   "mv": 150024342.0,
+   "officialWeight": 0.32,
+   "weight": 0.319618
   },
   {
    "symbol": "UNP",
@@ -1212,9 +1212,9 @@
    "sector": "Industrials",
    "industry": "Ground Transportation",
    "shares": 489173.0,
-   "mv": 148806426.6,
-   "officialWeight": 0.32,
-   "weight": 0.316532
+   "mv": 147945482.12,
+   "officialWeight": 0.31,
+   "weight": 0.315189
   },
   {
    "symbol": "KDP",
@@ -1224,9 +1224,9 @@
    "sector": "Consumer Staples",
    "industry": "Beverages",
    "shares": 3986264.0,
-   "mv": 141193470.88,
-   "officialWeight": 0.3,
-   "weight": 0.300338
+   "mv": 144860833.76,
+   "officialWeight": 0.31,
+   "weight": 0.308618
   },
   {
    "symbol": "TMO",
@@ -1236,9 +1236,9 @@
    "sector": "Health Care",
    "industry": "Life Sciences Tools & Services",
    "shares": 201003.0,
-   "mv": 140589538.32,
+   "mv": 140746320.66,
    "officialWeight": 0.3,
-   "weight": 0.299054
+   "weight": 0.299852
   },
   {
    "symbol": "MO",
@@ -1248,9 +1248,9 @@
    "sector": "Consumer Staples",
    "industry": "Tobacco",
    "shares": 1729724.0,
-   "mv": 134780094.08,
+   "mv": 136025495.36,
    "officialWeight": 0.29,
-   "weight": 0.286696
+   "weight": 0.289794
   },
   {
    "symbol": "TJX",
@@ -1260,9 +1260,9 @@
    "sector": "Consumer Discretionary",
    "industry": "Specialty Retail",
    "shares": 958310.0,
-   "mv": 130310993.8,
-   "officialWeight": 0.28,
-   "weight": 0.27719
+   "mv": 128768114.7,
+   "officialWeight": 0.27,
+   "weight": 0.274333
   },
   {
    "symbol": "CME",
@@ -1271,10 +1271,10 @@
    "secType": "DOMESTIC COMMON STOCK",
    "sector": "Financials",
    "industry": "Capital Markets",
-   "shares": 402672.0,
-   "mv": 127043016.0,
+   "shares": 403153.0,
+   "mv": 128190559.41,
    "officialWeight": 0.27,
-   "weight": 0.270238
+   "weight": 0.273102
   },
   {
    "symbol": "BRK.B",
@@ -1284,9 +1284,9 @@
    "sector": "Financials",
    "industry": "Financial Services",
    "shares": 203670.0,
-   "mv": 120130676.1,
-   "officialWeight": 0.25,
-   "weight": 0.255535
+   "mv": 120764089.8,
+   "officialWeight": 0.26,
+   "weight": 0.257281
   },
   {
    "symbol": "FTNT",
@@ -1296,9 +1296,9 @@
    "sector": "Information Technology",
    "industry": "Software",
    "shares": 901345.0,
-   "mv": 116760231.3,
-   "officialWeight": 0.25,
-   "weight": 0.248365
+   "mv": 114669110.9,
+   "officialWeight": 0.24,
+   "weight": 0.244296
   },
   {
    "symbol": "AMT",
@@ -1308,9 +1308,9 @@
    "sector": "Real Estate",
    "industry": "Specialized REITs",
    "shares": 596786.0,
-   "mv": 113264014.94,
+   "mv": 114368069.04,
    "officialWeight": 0.24,
-   "weight": 0.240928
+   "weight": 0.243654
   },
   {
    "symbol": "ADSK",
@@ -1320,9 +1320,9 @@
    "sector": "Information Technology",
    "industry": "Software",
    "shares": 430629.0,
-   "mv": 111739612.92,
+   "mv": 113866920.18,
    "officialWeight": 0.24,
-   "weight": 0.237686
+   "weight": 0.242587
   },
   {
    "symbol": "AWK",
@@ -1332,9 +1332,33 @@
    "sector": "Utilities",
    "industry": "Water Utilities",
    "shares": 723111.0,
-   "mv": 106716721.38,
+   "mv": 108177405.6,
    "officialWeight": 0.23,
-   "weight": 0.227001
+   "weight": 0.230466
+  },
+  {
+   "symbol": "CASH",
+   "name": "CASH",
+   "type": "cash",
+   "secType": "CURRENCIES",
+   "sector": "",
+   "industry": "",
+   "shares": 107340361.0,
+   "mv": 107340361.96,
+   "officialWeight": 0.23,
+   "weight": 0.228682
+  },
+  {
+   "symbol": "SCHW",
+   "name": "CHARLES SCHWAB CORP/THE",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Financials",
+   "industry": "Capital Markets",
+   "shares": 1139691.0,
+   "mv": 105968469.18,
+   "officialWeight": 0.23,
+   "weight": 0.22576
   },
   {
    "symbol": "NXPI",
@@ -1344,9 +1368,9 @@
    "sector": "Information Technology",
    "industry": "Semiconductors & Semiconductor Equipment",
    "shares": 396762.0,
-   "mv": 106050514.98,
-   "officialWeight": 0.23,
-   "weight": 0.225584
+   "mv": 105177638.58,
+   "officialWeight": 0.22,
+   "weight": 0.224075
   },
   {
    "symbol": "VMC",
@@ -1356,21 +1380,9 @@
    "sector": "Materials",
    "industry": "Construction Materials",
    "shares": 361172.0,
-   "mv": 101193170.96,
+   "mv": 100633354.36,
    "officialWeight": 0.21,
-   "weight": 0.215252
-  },
-  {
-   "symbol": "INTC",
-   "name": "INTEL CORP COMMON STOCK",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Information Technology",
-   "industry": "Semiconductors & Semiconductor Equipment",
-   "shares": 1480486.0,
-   "mv": 90605743.2,
-   "officialWeight": 0.19,
-   "weight": 0.192731
+   "weight": 0.214393
   },
   {
    "symbol": "BKNG",
@@ -1380,21 +1392,9 @@
    "sector": "Consumer Discretionary",
    "industry": "Hotels, Restaurants & Leisure",
    "shares": 546707.0,
-   "mv": 88129168.4,
+   "mv": 87243503.06,
    "officialWeight": 0.19,
-   "weight": 0.187463
-  },
-  {
-   "symbol": "HPE",
-   "name": "HEWLETT PACKARD",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Information Technology",
-   "industry": "Computers & Peripherals",
-   "shares": 1673510.0,
-   "mv": 83943261.6,
-   "officialWeight": 0.18,
-   "weight": 0.178559
+   "weight": 0.185867
   },
   {
    "symbol": "CVS",
@@ -1404,9 +1404,9 @@
    "sector": "Health Care",
    "industry": "Health Care Providers & Services",
    "shares": 926002.0,
-   "mv": 83145719.58,
+   "mv": 82738278.7,
    "officialWeight": 0.18,
-   "weight": 0.176863
+   "weight": 0.176269
   },
   {
    "symbol": "BKR",
@@ -1416,21 +1416,21 @@
    "sector": "Energy",
    "industry": "Energy Equipment & Services",
    "shares": 1665855.0,
-   "mv": 81393675.3,
+   "mv": 82359871.2,
    "officialWeight": 0.17,
-   "weight": 0.173136
+   "weight": 0.175463
   },
   {
-   "symbol": "SCHW",
-   "name": "CHARLES SCHWAB CORP/THE",
+   "symbol": "HPE",
+   "name": "HEWLETT PACKARD",
    "type": "stock",
    "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Financials",
-   "industry": "Capital Markets",
-   "shares": 867721.0,
-   "mv": 79309699.4,
+   "sector": "Information Technology",
+   "industry": "Computers & Peripherals",
+   "shares": 1673510.0,
+   "mv": 80813797.9,
    "officialWeight": 0.17,
-   "weight": 0.168703
+   "weight": 0.172169
   },
   {
    "symbol": "LDOS",
@@ -1440,9 +1440,21 @@
    "sector": "Industrials",
    "industry": "Professional Services",
    "shares": 601527.0,
-   "mv": 78866204.97,
+   "mv": 78517319.31,
    "officialWeight": 0.17,
-   "weight": 0.167759
+   "weight": 0.167277
+  },
+  {
+   "symbol": "ABT",
+   "name": "ABBOTT LABORATORIES",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Health Care",
+   "industry": "Health Care Equipment & Supplies",
+   "shares": 663146.0,
+   "mv": 71964603.92,
+   "officialWeight": 0.15,
+   "weight": 0.153316
   },
   {
    "symbol": "AXP",
@@ -1452,21 +1464,9 @@
    "sector": "Financials",
    "industry": "Consumer Finance",
    "shares": 217505.0,
-   "mv": 69179640.3,
+   "mv": 69732103.0,
    "officialWeight": 0.15,
-   "weight": 0.147155
-  },
-  {
-   "symbol": "WDC",
-   "name": "WESTERN DIGITAL CORP",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Information Technology",
-   "industry": "Computers & Peripherals",
-   "shares": 207685.0,
-   "mv": 64633648.85,
-   "officialWeight": 0.14,
-   "weight": 0.137485
+   "weight": 0.14856
   },
   {
    "symbol": "CRWD",
@@ -1476,9 +1476,33 @@
    "sector": "Information Technology",
    "industry": "Software",
    "shares": 271389.0,
-   "mv": 62384189.43,
+   "mv": 61499461.29,
    "officialWeight": 0.13,
-   "weight": 0.1327
+   "weight": 0.131021
+  },
+  {
+   "symbol": "WDC",
+   "name": "WESTERN DIGITAL CORP",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Information Technology",
+   "industry": "Computers & Peripherals",
+   "shares": 207685.0,
+   "mv": 61402070.25,
+   "officialWeight": 0.13,
+   "weight": 0.130814
+  },
+  {
+   "symbol": "BDX",
+   "name": "BECTON DICKINSON & CO",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Health Care",
+   "industry": "Health Care Equipment & Supplies",
+   "shares": 268113.0,
+   "mv": 58456677.39,
+   "officialWeight": 0.12,
+   "weight": 0.124539
   },
   {
    "symbol": "UPS",
@@ -1488,21 +1512,9 @@
    "sector": "Industrials",
    "industry": "Air Freight & Logistics",
    "shares": 502512.0,
-   "mv": 55467274.56,
+   "mv": 55658229.12,
    "officialWeight": 0.12,
-   "weight": 0.117987
-  },
-  {
-   "symbol": "CDNS",
-   "name": "CADENCE DESIGN SYSTEMS",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Information Technology",
-   "industry": "Software",
-   "shares": 158279.0,
-   "mv": 52757556.28,
-   "officialWeight": 0.11,
-   "weight": 0.112223
+   "weight": 0.118577
   },
   {
    "symbol": "AFRM",
@@ -1512,9 +1524,9 @@
    "sector": "Financials",
    "industry": "Financial Services",
    "shares": 790008.0,
-   "mv": 52014126.72,
+   "mv": 51437420.88,
    "officialWeight": 0.11,
-   "weight": 0.110641
+   "weight": 0.109584
   },
   {
    "symbol": "TOST",
@@ -1524,9 +1536,9 @@
    "sector": "Financials",
    "industry": "Financial Services",
    "shares": 1463824.0,
-   "mv": 49067380.48,
-   "officialWeight": 0.1,
-   "weight": 0.104373
+   "mv": 50765416.32,
+   "officialWeight": 0.11,
+   "weight": 0.108153
   },
   {
    "symbol": "MCK",
@@ -1536,33 +1548,9 @@
    "sector": "Health Care",
    "industry": "Health Care Providers & Services",
    "shares": 41322.0,
-   "mv": 44505860.1,
-   "officialWeight": 0.09,
-   "weight": 0.09467
-  },
-  {
-   "symbol": "ABT",
-   "name": "ABBOTT LABORATORIES",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Health Care",
-   "industry": "Health Care Equipment & Supplies",
-   "shares": 396339.0,
-   "mv": 42507357.75,
-   "officialWeight": 0.09,
-   "weight": 0.090419
-  },
-  {
-   "symbol": "BDX",
-   "name": "BECTON DICKINSON & CO",
-   "type": "stock",
-   "secType": "DOMESTIC COMMON STOCK",
-   "sector": "Health Care",
-   "industry": "Health Care Equipment & Supplies",
-   "shares": 191495.0,
-   "mv": 41307386.45,
-   "officialWeight": 0.09,
-   "weight": 0.087867
+   "mv": 45570314.82,
+   "officialWeight": 0.1,
+   "weight": 0.097085
   },
   {
    "symbol": "ICE",
@@ -1572,9 +1560,9 @@
    "sector": "Financials",
    "industry": "Capital Markets",
    "shares": 208480.0,
-   "mv": 37080252.8,
+   "mv": 37215764.8,
    "officialWeight": 0.08,
-   "weight": 0.078875
+   "weight": 0.079286
   },
   {
    "symbol": "FDXF",
@@ -1584,9 +1572,9 @@
    "sector": "Industrials",
    "industry": "Ground Transportation",
    "shares": 251334.0,
-   "mv": 32924754.0,
+   "mv": 33661162.62,
    "officialWeight": 0.07,
-   "weight": 0.070036
+   "weight": 0.071713
   },
   {
    "symbol": "GLW",
@@ -1596,21 +1584,9 @@
    "sector": "Information Technology",
    "industry": "Electronic Equipment, Instruments & Components",
    "shares": 242425.0,
-   "mv": 28901908.5,
+   "mv": 27655844.0,
    "officialWeight": 0.06,
-   "weight": 0.061478
-  },
-  {
-   "symbol": "WELL",
-   "name": "WELLTOWER INC",
-   "type": "stock",
-   "secType": "REIT",
-   "sector": "Real Estate",
-   "industry": "Health Care REITs",
-   "shares": 112447.0,
-   "mv": 27541643.71,
-   "officialWeight": 0.06,
-   "weight": 0.058585
+   "weight": 0.058919
   },
   {
    "symbol": "ILMN",
@@ -1620,21 +1596,45 @@
    "sector": "Health Care",
    "industry": "Life Sciences Tools & Services",
    "shares": 127612.0,
-   "mv": 26741094.6,
+   "mv": 26416960.12,
    "officialWeight": 0.06,
-   "weight": 0.056882
+   "weight": 0.05628
   },
   {
-   "symbol": "CASH",
-   "name": "CASH",
-   "type": "cash",
-   "secType": "CURRENCIES",
-   "sector": "",
-   "industry": "",
-   "shares": 13585905.0,
-   "mv": 13585905.99,
+   "symbol": "WELL",
+   "name": "WELLTOWER INC",
+   "type": "stock",
+   "secType": "REIT",
+   "sector": "Real Estate",
+   "industry": "Health Care REITs",
+   "shares": 96747.0,
+   "mv": 23650771.62,
+   "officialWeight": 0.05,
+   "weight": 0.050387
+  },
+  {
+   "symbol": "CDNS",
+   "name": "CADENCE DESIGN SYSTEMS",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Information Technology",
+   "industry": "Software",
+   "shares": 48140.0,
+   "mv": 15549701.4,
    "officialWeight": 0.03,
-   "weight": 0.028899
+   "weight": 0.033128
+  },
+  {
+   "symbol": "INTC",
+   "name": "INTEL CORP COMMON STOCK",
+   "type": "stock",
+   "secType": "DOMESTIC COMMON STOCK",
+   "sector": "Information Technology",
+   "industry": "Semiconductors & Semiconductor Equipment",
+   "shares": 206889.0,
+   "mv": 12342997.74,
+   "officialWeight": 0.03,
+   "weight": 0.026296
   },
   {
    "symbol": "USD - FOR FUTURES",
